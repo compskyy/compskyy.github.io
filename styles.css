@@ -75,12 +75,3 @@ a:hover {
 
 }
 
-.logo {
-    transition: transform 0.05s ease-in-out;
-    will-change: transform;
-}
-
-.logo:hover {
-    font-size: 110%;
-    transform: translateY(-3px);
-}
